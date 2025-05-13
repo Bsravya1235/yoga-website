@@ -15,6 +15,3 @@ Welcome to **Yoga Bliss** – a calming, responsive website designed to promote 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-
-## 📂 Folder Structure
-
